@@ -30,19 +30,19 @@
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_speredi.png)
 
-* Персонаж "ГИРЯ" идет вправо: CJ_Girya.png
+* Персонаж "Гиря" идет вправо: CJ_Girya.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya.png)
 
-* Персонаж "ГИРЯ" идёт влево: CJ_Girya_1.png
+* Персонаж "Гиря" идёт влево: CJ_Girya_1.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya_1.png)
 
-* Персонаж "ГИРЯ" лицевая сторона: CJ_Girya_pered.png
+* Персонаж "Гиря" лицевая сторона: CJ_Girya_pered.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya_pered.png)
 
-* Персонаж "ГИРЯ" задняя сторона: CJ_Girya_szadi.png
+* Персонаж "Гиря" задняя сторона: CJ_Girya_szadi.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya_szadi.png)
 
@@ -61,3 +61,7 @@
 * Персонаж "Жирный" лицевая сторона: CJ_Jirniy_pered.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Jirniy_pered.png)
+
+* Персонаж "Шеф" лицевая сторона: CJ_Boss.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Boss.png)
