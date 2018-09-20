@@ -29,3 +29,7 @@
 * Главный персонаж лицевая сторона: CJ_speredi.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_speredi.png)
+
+* Персонаж "ГИРЯ": CJ_Girya.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya.png)
