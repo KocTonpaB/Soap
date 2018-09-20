@@ -38,3 +38,10 @@
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya_1.png)
 
+* Персонаж "ГИРЯ" лицевая сторона: CJ_Girya_pered.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya_pered.png)
+
+* Персонаж "ГИРЯ" задняя сторона: CJ_Girya_szadi.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya_szadi.png)
