@@ -1,1 +1,1 @@
-[Главный персонаж: CJ.png](https://github.com/KocTonpaB/Soap/blob/master/Assets/Sprites/CJ.png)
+[Главный персонаж: CJ.png](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ.png)
