@@ -30,6 +30,11 @@
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_speredi.png)
 
-* Персонаж "ГИРЯ": CJ_Girya.png
+* Персонаж "ГИРЯ" идет вправо: CJ_Girya.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya.png)
+
+* Персонаж "ГИРЯ" идёт влево: CJ_Girya_1.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya_1.png)
+
