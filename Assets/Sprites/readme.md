@@ -72,7 +72,7 @@
 
 * Персонаж "Шеф" задняя сторона: CJ_Boss_szadi.png
 
-![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_szadi.png)
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ__Boss_szadi.png)
 
 * Персонаж "Шеф" лицевая сторона: CJ_Boss_pered.png
 
