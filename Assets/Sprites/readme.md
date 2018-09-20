@@ -54,3 +54,10 @@
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Jirniy_1.png)
 
+* Персонаж "Жирный" задняя сторона: CJ_Jirniy_szadi.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Jirniy_szadi.png)
+
+* Персонаж "Жирный" лицевая сторона: CJ_Jirniy_pered.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Jirniy_pered.png)
