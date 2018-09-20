@@ -46,7 +46,11 @@
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Girya_szadi.png)
 
-* Персонаж "Жирный": CJ_Jirniy.png
+* Персонаж "Жирный" идёт вправо: CJ_Jirniy.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Jirniy.png)
+
+* Персонаж "Жирный" идёт влево: CJ_Jirniy_1.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Jirniy_1.png)
 
