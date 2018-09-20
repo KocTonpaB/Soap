@@ -62,6 +62,10 @@
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Jirniy_pered.png)
 
-* Персонаж "Шеф" лицевая сторона: CJ_Boss.png
+* Персонаж "Шеф" идёт вправо: CJ_Boss.png
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Boss.png)
+
+* Персонаж "Шеф" идёт влево: CJ_Boss_1.png
+
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_Boss_1.png)
