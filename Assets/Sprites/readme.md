@@ -22,10 +22,10 @@
 
 ![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_2_na_zapad.png)
 
-* Главный персонаж: CJ_3.png
+* Главный персонаж задняя сторона: CJ_szadi.png
 
-![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_3.png)
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_szadi.png)
 
-* Главный персонаж: CJ_4.png
+* Главный персонаж лицевая сторона: CJ_speredi.png
 
-![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_4.png)
+![none](https://raw.githubusercontent.com/KocTonpaB/Soap/master/Assets/Sprites/CJ_speredi.png)
